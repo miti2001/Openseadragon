@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "openseadragon": "^2.4.2",
+    "openseadragon-annotations": "^1.0.5"
+  }
+}
